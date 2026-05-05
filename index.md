@@ -11,5 +11,7 @@ Permissions:
 - Alarms: used for scheduled alerts
 
 We do not share data with any third parties.
+
 This app does not use third-party analytics, ads, or tracking services.
+
 Contact: sanjaympatel8523@gmail.com
